@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on bluehav</title>
-        <link>http://localhost:1313/luze_home/post/</link>
-        <description>Recent content in Posts on bluehav</description>
+        <title>Tip on bluehav</title>
+        <link>http://localhost:1313/luze_home/categories/tip/</link>
+        <description>Recent content in Tip on bluehav</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>路泽</copyright>
-        <lastBuildDate>Sun, 15 Dec 2024 17:00:51 +0800</lastBuildDate><atom:link href="http://localhost:1313/luze_home/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>路泽</copyright><atom:link href="http://localhost:1313/luze_home/categories/tip/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>my first blog</title>
         <link>http://localhost:1313/luze_home/p/my-first-blog/</link>
         <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>

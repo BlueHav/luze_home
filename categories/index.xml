@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on bluehav</title>
-        <link>https://bluehav.github.io/luze_home/categories/</link>
+        <link>http://localhost:1313/luze_home/categories/</link>
         <description>Recent content in Categories on bluehav</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>路泽</copyright><atom:link href="https://bluehav.github.io/luze_home/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://bluehav.github.io/luze_home/categories/test/</link>
+        <copyright>路泽</copyright>
+        <lastBuildDate>Sun, 15 Dec 2024 17:00:51 +0800</lastBuildDate><atom:link href="http://localhost:1313/luze_home/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>learning</title>
+        <link>http://localhost:1313/luze_home/categories/knowledge/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://bluehav.github.io/luze_home/categories/test/</guid>
-        <description>&lt;img src="https://bluehav.github.io/luze_home/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>http://localhost:1313/luze_home/categories/knowledge/</guid>
+        <description>&lt;img src="http://localhost:1313/luze_home/categories/knowledge/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post learning" /&gt;</description>
+        </item>
+        <item>
+        <title>Tip</title>
+        <link>http://localhost:1313/luze_home/categories/tip/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/luze_home/categories/tip/</guid>
+        <description>&lt;img src="http://localhost:1313/luze_home/categories/tip/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Tip" /&gt;</description>
         </item>
         
     </channel>

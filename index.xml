@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>bluehav</title>
-        <link>https://bluehav.github.io/luze_home/</link>
+        <link>http://localhost:1313/luze_home/</link>
         <description>Recent content on bluehav</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>路泽</copyright><atom:link href="https://bluehav.github.io/luze_home/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Myfirstblog</title>
-        <link>https://bluehav.github.io/luze_home/p/myfirstblog/</link>
-        <pubDate>Sat, 14 Dec 2024 13:51:56 +0800</pubDate>
+        <copyright>路泽</copyright><atom:link href="http://localhost:1313/luze_home/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>my first blog</title>
+        <link>http://localhost:1313/luze_home/p/my-first-blog/</link>
+        <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://bluehav.github.io/luze_home/p/myfirstblog/</guid>
-        <description>&lt;p&gt;###hello world&lt;/p&gt;
+        <guid>http://localhost:1313/luze_home/p/my-first-blog/</guid>
+        <description>&lt;img src="http://localhost:1313/luze_home/p/my-first-blog/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post my first blog" /&gt;&lt;p&gt;模板&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>归档</title>
-        <link>https://bluehav.github.io/luze_home/archives/</link>
+        <link>http://localhost:1313/luze_home/archives/</link>
         <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://bluehav.github.io/luze_home/archives/</guid>
+        <guid>http://localhost:1313/luze_home/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://bluehav.github.io/luze_home/%E5%85%B3%E4%BA%8E/</link>
+        <link>http://localhost:1313/luze_home/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://bluehav.github.io/luze_home/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>http://localhost:1313/luze_home/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;这是我的一个博客网站，逐步完善中。。。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>链接</title>
-        <link>https://bluehav.github.io/luze_home/%E9%93%BE%E6%8E%A5/</link>
+        <link>http://localhost:1313/luze_home/%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://bluehav.github.io/luze_home/%E9%93%BE%E6%8E%A5/</guid>
+        <guid>http://localhost:1313/luze_home/%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;!-- This page&#39;s frontmatter:
 
@@ -57,10 +57,10 @@ links:
         </item>
         <item>
         <title>搜索</title>
-        <link>https://bluehav.github.io/luze_home/search/</link>
+        <link>http://localhost:1313/luze_home/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://bluehav.github.io/luze_home/search/</guid>
+        <guid>http://localhost:1313/luze_home/search/</guid>
         <description></description>
         </item>
         
